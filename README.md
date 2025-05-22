@@ -9,7 +9,7 @@
 ***
 ⚙️ Tech Stack
 
-Languages:    Java, JavaScript, Python, Dart, HTML, CSS, SQL
+Languages:    Java, JavaScript, Python, Dart, HTML, CSS
 
 Frameworks:   Spring Boot, Node.js, Express, React (learning)
 
