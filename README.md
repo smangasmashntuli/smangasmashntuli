@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Simangaliso Mazweni Ntuli<br><br>🚀 Software Developer | Web Developer | Full-Stack Engineer in Training<br><br>👨‍💻 About Me<br>I am a passionate software developer currently pursuing my Advanced Diploma in ICT, with a strong focus on backend development, scalable systems, and real-world application design. I enjoy building intelligent, production-style applications that solve practical problems.<br><br>💬 Ask Me About:<br>Java • Spring Boot • REST APIs • Web Development • Backend Systems • Software Architecture<br><br>
+Hi there 👋 I'm Simangaliso Mazweni Ntuli<br><br>🚀 Software Developer | Web Developer <br><br>👨‍💻 About Me<br>I am a passionate software developer currently pursuing my Advanced Diploma in ICT, with a strong focus on backend development, scalable systems, and real-world application design. I enjoy building intelligent, production-style applications that solve practical problems.<br><br>💬 Ask Me About:<br>Java • Spring Boot • REST APIs • Web Development • Backend Systems • Software Architecture<br><br>
 
 
 ## 🌐 Socials:
