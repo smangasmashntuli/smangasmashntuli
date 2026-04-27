@@ -120,7 +120,7 @@ I'm a passionate **Software Developer** currently pursuing my **Advanced Diploma
 
 <div align="center">
 
-![snake gif](https://github.com/smangasmashntuli/smangasmashntuli/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake](./snake.svg)
 
 </div>
 
