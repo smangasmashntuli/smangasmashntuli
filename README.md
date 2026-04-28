@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Simangaliso Mazweni Ntuli 👋
+# A GRADUATE Himself 😎
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Web+Developer;Backend+%26+Full-Stack+Enthusiast;Spring+Boot+%7C+REST+APIs+%7C+Node.js;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -17,7 +18,7 @@ I'm a passionate **Software Developer** currently pursuing my **Advanced Diploma
 - 🔭 I'm currently working on **scalable backend systems and full-stack web applications**
 - 🌱 I'm currently learning **Spring Boot advanced patterns, microservices, and cloud deployment**
 - 👯 I'm looking to collaborate on **open-source projects and innovative web apps**
-- 💬 Ask me about **Java • Spring Boot • REST APIs • Web Development • Backend Systems • Software Architecture**
+- 💬 Ask me about **Java • Python • Spring Boot • REST APIs • Web Development • Backend Systems**
 - ⚡ Fun fact: **I debug with coffee ☕ and solve problems with perseverance 💪**
 
 ---
