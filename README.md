@@ -107,26 +107,6 @@ I'm a passionate **Software Developer** currently pursuing my **Advanced Diploma
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=smangasmashntuli&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![GitHub Contribution Snake](./snake.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Random Dev Quote
