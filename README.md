@@ -56,6 +56,8 @@ I'm a passionate **Software Developer** currently pursuing my **Advanced Diploma
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 **Databases**
 
