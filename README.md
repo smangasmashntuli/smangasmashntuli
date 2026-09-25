@@ -15,12 +15,6 @@
 
 I'm a passionate **Software Developer** currently pursuing my **Advanced Diploma in ICT**, with a strong focus on backend development, scalable systems, and real-world application design. I enjoy building intelligent, production-style applications that solve practical problems.
 
-- 🔭 I'm currently working on **scalable backend systems and full-stack web applications**
-- 🌱 I'm currently learning **Spring Boot advanced patterns, microservices, and cloud deployment**
-- 👯 I'm looking to collaborate on **open-source projects and innovative web apps**
-- 💬 Ask me about **Java • Python • Spring Boot • REST APIs • Web Development • Backend Systems**
-- ⚡ Fun fact: **I debug with coffee ☕ and solve problems with perseverance 💪**
-
 ---
 
 ## 🌐 Connect With Me
@@ -72,40 +66,6 @@ I'm a passionate **Software Developer** currently pursuing my **Advanced Diploma
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=smangasmashntuli&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=smangasmashntuli&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=smangasmashntuli&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smangasmashntuli&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Simangaliso's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smangasmashntuli&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
