@@ -1,9 +1,5 @@
 # `smangasmashntuli@github ~ $ ./maintainer.sh`
 
-<div align="center">
-
-[![System Scan](https://www.gitskins.com/api/section/system-scan?username=smangasmashntuli&theme=neon&style=terminal)](https://github.com/smangasmashntuli)
-
 **Software Developer · Full-Stack Developer · AI Enthusiast**
 
 *Building practical applications, exploring AI, and turning ideas into working software.*
@@ -13,14 +9,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=smangasmashntuli&style=flat-square&color=38bdf8)](https://github.com/smangasmashntuli)
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=smangasmashntuli&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131978605%3Fu%3Db6dbbfa1bc60efc4ff5a766ca298154bab3b57cb%26v%3D4" alt="smangasmashntuli city visual" />
-</p>
-
-<p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
 
 ---
 
@@ -39,10 +27,6 @@ I enjoy solving problems, learning unfamiliar technologies, and exploring how so
 
 ## `$ toolbox --list`
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=smangasmashntuli&theme=neon&style=terminal" width="100%" alt="Technologies detected from my GitHub profile" />
-</p>
-
 ### Technologies I work with
 
 | Area | Technologies |
@@ -59,12 +43,6 @@ I enjoy solving problems, learning unfamiliar technologies, and exploring how so
 
 ## `$ git status --short --projects`
 
-### Projects worth exploring
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=smangasmashntuli&theme=neon&repos=smangasmashntuli%2Fsntuliport%2Csmangasmashntuli%2Fteachwave-pro%2Csmangasmashntuli%2FNative-App&style=terminal" width="100%" alt="Selected GitHub repositories and project statistics" />
-</p>
-
 ### Featured work
 
 | Project | What it does | Technologies |
@@ -78,9 +56,7 @@ I enjoy solving problems, learning unfamiliar technologies, and exploring how so
 
 ## `$ github --stats`
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=smangasmashntuli&theme=neon&style=terminal" width="100%" alt="Live GitHub profile statistics" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smangasmashntuli&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="49%" alt="Most-used programming languages across public repositories" />
